@@ -5,7 +5,7 @@ h1 {
 }
 
 body {
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg");
+	background-color: white;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
