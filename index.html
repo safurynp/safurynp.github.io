@@ -1,23 +1,75 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Favourite Movie Quotes</title>
+	<link rel="stylesheet" href="styles.css" text="text/css">
+</head>
+<body>
+	<h1>"Test 1"</h1>
+	<h2>"Test 2"</h2>
+	<h3>"Test 3"</h3>
+	<h4>"Test 4"</h4>
+	<a href="http://safurynp.weebly.com">LINK</a>
 
-<div class="home">
+	<!--Nested lists-->
+	<ol>
+		<li>List item #1</li>
+		<li>List item #2</li>
+		<ul>
+			<li>Nested list item #1</li>
+			<li>NEsted list item #2</li>
+		</ul>
+		<li>List item #3</li>
+	</ol>
 
-  <h1 class="page-heading">Pawel Safuryn</h1>
+	<!--Tables-->
+	<table>
+		<tr>
+			<th>Table header 1</th>
+			<th>Table header 2</th>
+		</tr>
+		<tr>
+			<td>Cell 1</td>
+			<td>Cell 2</td>
+		</tr>
+		<tr>
+			<td>Cell 3</td>
+			<td>Cell 4</td>
+		</tr>
+	</table>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<table>
+		<tr>
+			<td colspan="2">
+				<strong>Total Revenue (o taaaak)</strong>
+			</td>
+			<td>
+				<strong>7,872,000</strong>
+			</td>
+			<td>
+				<strong>5,872,000</strong>
+			</td>
+			<td>
+				<strong>3,872,000</strong>
+			</td>
+		</tr>
+	</table>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+	<table align="right" width="50%" border=1>
+		<tr>
+			<td>The Social Network</td>
+			<td>Generation Like</td>
+		</tr>
+		<tr>
+			<td>Tron</td>
+			<td>War Games</td>
+		</tr>
+	</table>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<form action="mailto:safurynp@gmail.com" method="POST">
+		<input type="text" value="Type a short message here">
+		<input type="submit"></input>
+	</form>
 
-</div>
+</body>
+</html>
