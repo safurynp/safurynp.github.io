@@ -29,7 +29,7 @@ body {
   animation-delay: .4s;
 }
 
-@-webkit-keyframes blink {}
+@-webkit-keyframes blink {
   0% {
     opacity: .2;
   }
