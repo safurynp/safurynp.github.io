@@ -1,15 +1,54 @@
 h1 {
-	font-family: Lato sanserif;
-	font-size: 30px;
-	color: black;
-	position: relative;
-    top: 10px;
-	text-align: center;
+  font-family: Lato sanserif;
+  font-size: 25px;
+  color: black;
+  position: relative;
+  top: 10px;
+  text-align: center;
 }
 
 body {
-	background-color: white;
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: scroll;
+  background-color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.saving span {
+  animation-name: blink;
+  animation-duration: 1.4s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+}
+
+.saving span:nth-child(2) {
+  animation-delay: .2s;
+}
+
+.saving span:nth-child(3) {
+  animation-delay: .4s;
+}
+
+@-webkit-keyframes blink {}
+  0% {
+    opacity: .2;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: .2;
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: .2;
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: .2;
+  }
 }
