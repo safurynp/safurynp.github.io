@@ -1,7 +1,10 @@
 h1 {
-	font-family: cursive;
-	font-size: 15px;
-	color: blue;
+	font-family: Lato sanserif;
+	font-size: 30px;
+	color: black;
+	position: relative;
+    top: 10px;
+	text-align: center;
 }
 
 body {
