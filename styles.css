@@ -14,18 +14,18 @@ body {
   background-attachment: scroll;
 }
 
-.saving span {
+.making span {
   animation-name: blink;
   animation-duration: 1.4s;
   animation-iteration-count: infinite;
   animation-fill-mode: both;
 }
 
-.saving span:nth-child(2) {
+.making span:nth-child(2) {
   animation-delay: .2s;
 }
 
-.saving span:nth-child(3) {
+.making span:nth-child(3) {
   animation-delay: .4s;
 }
 
