@@ -6,12 +6,8 @@ h1 {
 }
 
 body {
-  background-color: white;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  -webkit-text-size-adjust: none;
   height: 100%;
+  width: 100%;
   margin: 10px;
 }
 
