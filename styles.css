@@ -1,5 +1,5 @@
 h1 {
-  font-family: Lato sanserif;
+  font-family: Lato, sanserif;
   font-size: 40px;
   color: black;
   position: relative;
@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   -webkit-text-size-adjust: none;
+  height: 100%;
 }
 
 .making span {
