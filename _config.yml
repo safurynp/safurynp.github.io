@@ -1,6 +1,6 @@
 title: Paweł Safuryn
 author: Paweł Safuryn
-email: safuryn@gmail.com
+email: safurynp@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Personal portfolio website presenting my background and some interesting projects :)
 
@@ -34,8 +34,10 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- university.md
+- work.md
+- cv.md
 
 # Build settings
 theme: minima
