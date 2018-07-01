@@ -2,8 +2,15 @@
 layout: home
 ---
 
-![profile picture]({{ "/assets/pawel.png" | absolute_url }}){: height="200px" width="200px"}{: .center-image }
+![profile picture]({{ "/assets/pawel.png" | relative_url }}){: width="25%"}{: .center-image }
 
 Hi! I am a graduate of the University of Edinburgh holding a first-class degree in MEng Mechanical Engineering and currently working as a Graduate Engineer at [Rolls-Royce].
 
+Within engineering, my biggest interests include **engineering simulation** and **mathematical modelling**, and outside of work I still enjoy [competitive tennis].
+
+This website aims to showcase a variety of projects I got involved in over the past few years at [universities] and in the [industry].
+
 [Rolls-Royce]: https://www.rolls-royce.com
+[competitive tennis]: https://www.atpworldtour.com/en/players/pawel-safuryn/sq35/overview
+[universities]: /uni/
+[industry]: /work/
