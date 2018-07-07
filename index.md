@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![profile picture]({{ "/assets/pawel.png" | relative_url }}){: width="25%"}{: .center-image }
+![profile picture]({{ "/assets/img/pawel.png" | relative_url }}){: width="30%"}{: .center-image }
 
 Hi! I am a graduate of the University of Edinburgh holding a first-class degree in MEng Mechanical Engineering and currently working as a Graduate Engineer at [Rolls-Royce].
 

@@ -1,0 +1,8 @@
+# Uni Projects Section
+
+uni-projects:
+- {name: 'Computer Modelling of Panic Evacuations', folder: 'proj-1', file: 'uni-projects/proj-1'}
+- {name: 'Delta Wing in Waves', folder: 'proj-4', file: 'uni-projects/proj-4'}
+- {name: 'Microelectromechanical Sensor', folder: 'proj-2', file: 'uni-projects/proj-2'}
+- {name: 'Vertical Axis Wind Turbine', folder: 'proj-3', file: 'uni-projects/proj-3'}
+

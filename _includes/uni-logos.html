@@ -1,0 +1,64 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+* {
+  box-sizing: content-box;
+}
+
+.row > .column {
+  padding: 0 0;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column1 {
+  float: left;
+  display: inline;
+}
+
+.column2 {
+  float: right;
+  display: inline;
+}
+
+.column3 {
+  margin-left: 150px;
+  display: inline;
+}
+
+
+.cursor {
+  cursor: pointer;
+}
+
+
+</style>
+
+<body>
+
+<div class="row">
+  <div class="column1">
+    <a href="">
+      <img src="{{ site.url }}/assets/company-logos/rr-logo.png" style="height:60px" class="cursor">
+    </a>
+  </div>
+  <div class="column2">
+    <a href="">
+      <img src="{{ site.url }}/assets/company-logos/desart-logo.png" style="height:60px" class="cursor">
+    </a>
+  </div>
+  <div class="column3">
+    <a href="">
+      <img src="{{ site.url }}/assets/company-logos/edem-logo.png" style="height:60px" class="cursor">
+    </a>
+  </div>
+</div>
+
+    
+</body>
+</html>
