@@ -4,6 +4,6 @@ title: Work Experience
 permalink: /work/
 ---
 
-{% include uni-logos.html %}
+{% include work-logos.html %}
 
 
