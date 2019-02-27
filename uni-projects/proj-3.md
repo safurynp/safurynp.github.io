@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Computer Modelling of Panic Evacuations'
+title: 'Microelectromechanical Sensor'
 ---
 
 Content

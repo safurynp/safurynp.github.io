@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Computer Modelling of Panic Evacuations'
+title: 'Vertical Axis Wind Turbine'
 ---
 
 Content
