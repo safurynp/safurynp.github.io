@@ -19,8 +19,13 @@
 <body>
 
 <div class="iframe-container">
-    <iframe  width="100" height="1000" src="{{ site.url }}/assets/pdf/cv_ps.pdf" frameborder="0" allowfullscreen></iframe>
+    <iframe  width="560" height="315" src="{{ site.url }}/assets/pdf/cv_ps.pdf" frameborder="0" allowfullscreen></iframe>
 </div>
+<script>
+    document.getElementById("theFrame").contentWindow.onload = function() {
+        this.document.getElementsByTagName("img")[0].style.width="100%";
+    };
+</script>
 
 </body>
 
