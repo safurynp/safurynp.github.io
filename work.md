@@ -61,12 +61,12 @@ DEM Solutions is a software engineering company whose main product is EDEM, the 
 #### Technical marketing project
 Various applications of EDEM were researched to learn what type of content should be presented in the videos. Suitable geometries were then created using a computer-aided design package and simulations were set up and run. Post-processing in EDEM and Excel was performed to visualise the data obtained. Finally, the videos were recorded, edited and presented in an attractive form to ensure the final product is delivered in a professional way. During my work, I was also involved in working with API (Application Programming Interface) to define geometry motion with EDEM-MBD coupling and create custom properties for the particles. Standard C++ scripting was used in EDEM API. The six main educational videos produced included analysis of ore flow through a transfer chute, dump truck unloading, potato harvesting, excavator digging, tablet coating and combine harvester processes.
 
-{% include youtubePlayerS.html id="QgVNvYZb3pI" %}
-{% include youtubePlayerS.html id="xpHbtkIobS0" %}
-{% include youtubePlayerS.html id="kSwkh9fcmw8" %}
-{% include youtubePlayerS.html id="kX5yq8RD7nI" %}
-{% include youtubePlayerS.html id="KGeHsB-UdHI" %}
-{% include youtubePlayerS.html id="K-lX8cGfPoQ" %}
+{% include respframe.html id="QgVNvYZb3pI" %}
+{% include respframe.html id="xpHbtkIobS0" %}
+{% include respframe.html id="kSwkh9fcmw8" %}
+{% include respframe.html id="kX5yq8RD7nI" %}
+{% include respframe.html id="KGeHsB-UdHI" %}
+{% include respframe.html id="K-lX8cGfPoQ" %}
 
 #### "What is DEM" course
 The second main project involved creating a “What is DEM” course in order to help prospective clients understand what DEM is. This involved investigating different aspects of this numerical method as well as planning and organising data in order to effectively present the information. In the end, two documents were produced: a concise but descriptive PDF outlining the principles of the method and PowerPoint slides which were presented as a live webinar and followed by a Q&A session. The PDF slidedoc can be found under this [LINK](https://www.edemsimulation.com/download/ebooks/what-is-dem-ebook.pdf/).
