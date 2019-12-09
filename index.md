@@ -4,7 +4,7 @@ layout: home
 
 ![profile picture]({{ "/assets/img/pawel.png" | relative_url }}){: width="30%"}{: .center-image }
 
-Hi! I am a graduate of the University of Edinburgh holding a first-class degree in MEng Mechanical Engineering and currently working as a Graduate Engineer at [Rolls-Royce].
+Hi! I am a graduate of the University of Edinburgh holding a first-class degree in MEng Mechanical Engineering and currently working as a Structural Engineer at [Rolls-Royce]. My current responsibilties involve system design integration and performing computational mechanical analyses.
 
 Within engineering, my biggest interests include **engineering simulation** and **mathematical modelling**, and outside of work I still enjoy [competitive tennis].
 
