@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<div class="iframe-container">
+    <iframe  width="560" height="315" src="{{ site.url }}/assets/pdf/cv_safurynp.pdf" frameborder="0" allowfullscreen></iframe>
+</div>
+<script>
+    document.getElementById("theFrame").contentWindow.onload = function() {
+        this.document.getElementsByTagName("img")[0].style.width="100%";
+    };
+</script>
+
+</body>
+
+</html>
