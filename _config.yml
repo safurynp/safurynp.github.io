@@ -61,7 +61,7 @@ header_pages:
   - cv.md
 
 # Enable Google Analytics
-# google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-155253042-1
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
