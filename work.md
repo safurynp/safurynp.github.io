@@ -11,13 +11,12 @@ title: Work Experience
 
 #### Graduate Engineer
 ##### September 2017 - October 2019, Derby/Ansty, UK
-* Completed the Rolls-Royce Engineering Graduate Programme designed to develop the technical experts, business specialists, or managers at an accelerated pace, resulting in a leadership role.
-* Work was performed in a range of departments including Whole Engine Modelling, Manufacturing Capability Acquisition, High Performance Computing, High Temperature Research Centre, and Future Technologies Group.
+* Completed the Rolls-Royce Engineering Graduate Programme working in a range of departments including Whole Engine Modelling, Manufacturing Capability Acquisition, High Performance Computing, High Temperature Research Centre, and Future Technologies Group.
 * Focus was placed on developing highly technical skills in the areas of engineering simulation, mathematical modelling, numerical analysis, programming, computational fluid dynamics and structural systems.
 
 #### Engineering Intern in the Fast Make Team
 ##### June 2016 - September 2016, Derby, UK
-* Collaborated with design, manufacturing and integration leads to collect information about the design of a high pressure turbine (HPT) manifold.
+* Collaborated with design, manufacturing and integration leads to collect information about the design of a high pressure turbine parts.
 * Organised the data in a concise form to serve as astandard for designing future demonstration engines and to aid decision-making by management.
 * Improved and automated a database of suppliers using VBA in Excel.
 
