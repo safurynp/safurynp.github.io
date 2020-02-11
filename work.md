@@ -7,7 +7,8 @@ title: Work Experience
 ### Rolls-Royce
 #### Structural Engineer (Comp Eng Mechanical Analyst)
 ##### November 2019 - Present, Derby, UK
-* Currently part of Structural Systems Design team, responsible for system design integration and performing computational mechanical analyses of whole aero engines.
+* Currently part of Structural Systems Design team, generally responsible for system design integration and performing computational mechanical analyses of whole aero engines.
+* For one of the main projects, acting as an integrated project team leader, with the project goal of addressing potential safety concerns through structural analysis and numerical risk assessments.
 
 #### Graduate Engineer
 ##### September 2017 - October 2019, Derby/Ansty, UK
